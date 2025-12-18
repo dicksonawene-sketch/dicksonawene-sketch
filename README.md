@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**dicksonawene-sketch/dicksonawene-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Awene Dickson
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about data analysis, Excel dashboards, and turning raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Projects
+
+- *Profit Insights Dashboard*  
+  An Excel-based dashboard analyzing revenue, cost, and profit with interactive visuals.
+
+More projects coming soon...
+
+🧰 Tools & Skills
+
+- Microsoft Excel (PivotTables, Charts, Functions)
+- Data Cleaning & Analysis
+- Dashboard Design
+- Power Query (learning in progress)
+
+📈 What I'm Working On
+
+Currently exploring:
+- More advanced Excel features (PowerPivot, Power Query)
+- Real-life business datasets
+- Building a strong data portfolio
