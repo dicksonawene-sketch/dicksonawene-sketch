@@ -25,10 +25,12 @@ I’m passionate about **data analysis, Excel dashboards**, and transforming raw
 
 ### **Data Skills**
 
-- Data Cleaning & Preparation  
-- PivotTables & Advanced Excel Functions  
-- Dashboard Design & Reporting  
-- Business Data Analysis  
+- Learning to clean and prepare datasets for analysis  
+- Practicing PivotTables & Excel formulas for smarter insights  
+- Designing simple, clear dashboards for reporting  
+- Exploring business data and real-world use cases  
+
+
 
 ---
 
@@ -41,19 +43,23 @@ I’m passionate about **data analysis, Excel dashboards**, and transforming raw
 
 ## 💼 Featured Projects
 
-- **📊 Profit Insights Dashboard**  
-  An Excel-based dashboard analyzing **revenue, cost, and profit**, featuring interactive visuals to support business decision-making.
+📊 Profit Insights Dashboard  
+An Excel-based dashboard analyzing *revenue, cost, and profit*, featuring interactive visuals to support business decision-making.  
+*This project marks my first step into data analysis, with Excel as my starting tool.*
 
-➡️ More projects coming soon as I continue building a strong data portfolio.
+➡️ More projects coming soon as I explore deeper into data tools and build a diverse portfolio across Excel, Power BI, SQL, Python, and beyond.
 
 ---
 
-## 📈 What I'm Currently Working On
+🚀 What I'm Currently Working On
 
-- Advanced Excel features (**Power Query & Power Pivot**)  
-- Real-life business and financial datasets  
-- Improving dashboard aesthetics and usability  
-- Expanding my data analysis portfolio
+- Building strong Excel foundations (Power Query, Pivot Tables, and Dashboards)  
+- Exploring Power BI, SQL, and Python for deeper data analysis  
+- Learning real-world business & financial use cases  
+- Improving dashboard aesthetics and user experience  
+- Gradually transitioning into broader data analytics tools and techniques
+
+
 
 ---
 
