@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Awene Dickson!
 
 Welcome to my GitHub profile 👨‍💻  
-I’m passionate about **data analysis, Excel dashboards**, and transforming raw data into **clear, actionable insights** that support better decision-making.
+I’m passionate about **data analysis, and transforming raw data into **clear, actionable insights** that support better decision-making.
 
 ---
 
