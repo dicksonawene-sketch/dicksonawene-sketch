@@ -1,75 +1,57 @@
-# 👋 Hello, I'm Awene Dickson!
+# 👋 Hello, I'm **Awene Dickson Busayo**
 
 Welcome to my GitHub profile 👨‍💻  
-I’m passionate about data analysis, and transforming raw data into **clear, actionable insights** that support better decision-making.
+I’m an **entry-level Data Analyst** passionate about transforming raw, messy datasets into **clear, actionable insights** that drive smarter decisions.
 
 ---
 
-## What do I enjoy doing?
-
-- **Data Storytelling:** Turning complex datasets into simple, visual, and meaningful dashboards.
-- **Problem Solving:** Analyzing business data to uncover trends, patterns, and opportunities.
-- **Continuous Learning:** Constantly improving my data skills and exploring real-world datasets.
-
----
-
-## 🔧 Technology Stacks
-
-### **Data Analysis & Productivity Tools**
-  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
-![Power Pivot](https://img.shields.io/badge/Power_Pivot-ED8B00?style=for-the-badge)
+## 🌟 What I Do
+- **Data Storytelling:** Turning complex datasets into simple, visual, and meaningful dashboards  
+- **Problem Solving:** Using SQL and Excel to uncover trends, patterns, and opportunities  
+- **Continuous Learning:** Expanding my skills in Power BI, Python, and real-world business analytics  
 
 ---
 
-### **Data Skills**
-
-- Learning to clean and prepare datasets for analysis  
-- Practicing PivotTables & Excel formulas for smarter insights  
-- Designing simple, clear dashboards for reporting  
-- Exploring business data and real-world use cases  
-
-
-
----
-
-### **Tools & Workflow**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+## 🔧 Technical Skills
+- **Excel & Data Cleaning:** Power Query, Power Pivot, DAX, dashboards, slicers, combo charts, handling missing data  
+- **SQL (PostgreSQL):** Joins, CTEs, CASE, EXISTS, LAG, DATE_TRUNC, cohort analysis & time-based aggregation  
+- **Visualization & Storytelling:** Excel dashboards, charts, and visuals; communicating insights for nontechnical audiences  
+- **Version Control:** Git & GitHub for documentation and collaboration  
 
 ---
 
 ## 💼 Featured Projects
 
-📊 Profit Insights Dashboard  
-An Excel-based dashboard analyzing *revenue, cost, and profit*, featuring interactive visuals to support business decision-making.  
-*This project marks my first step into data analysis, with Excel as my starting tool.*
+### 📊 E-Commerce Data Analytics (PostgreSQL, SQL, GitHub)
+- Conducted end-to-end SQL analysis on messy e-commerce data with missing keys and duplicates  
+- Built queries for customer retention, product category performance, and delivery efficiency  
+- Documented insights and recommendations in GitHub README  
 
-➡️ More projects coming soon as I explore deeper into data tools and build a diverse portfolio across Excel, Power BI, SQL, Python, and beyond.
+### 📈 Stock Portfolio Analysis Dashboard (Excel, Power Query, Pivot Tables)
+- Designed interactive dashboard analyzing 7 years of stock data across 4 global indices  
+- Visualized returns, volatility, and trading volume with scatter plots and combo charts  
+- Automated cleaning and transformation with Power Query  
 
----
-
-🚀 What I'm Currently Working On
-
-- Building strong Excel foundations (Power Query, Pivot Tables, and Dashboards)  
-- Exploring Power BI, SQL, and Python for deeper data analysis  
-- Learning real-world business & financial use cases  
-- Improving dashboard aesthetics and user experience  
-- Gradually transitioning into broader data analytics tools and techniques
-
-
+### 💹 Sales Profit Insights Dashboard (Excel, Dynamic Charts, Slicers)
+- Built dashboard comparing monthly revenue vs cost  
+- Enabled dynamic filtering by product, customer segment, and country  
+- Highlighted key metrics (cost, revenue, profit) with clear visuals for decision-making  
 
 ---
 
-## 📫 Let's Connect!
-
-Feel free to connect, collaborate, or share opportunities:
-
-- 💼 LinkedIn:  
-  [https://www.linkedin.com/in/awene-dickson-880884330](https://www.linkedin.com/in/awene-dickson-880884330)
+## 🎓 Education
+**B.Sc./B.Ed. Mathematics Education**  
+University of Lagos, Lagos, Nigeria  
+Expected Graduation: 2026  
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey in data analytics!
+## 📫 Let’s Connect
+- ✉️ dicksonawene@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/awene-dickson-880884330)  
+- 💻 [GitHub](https://github.com/dicksonawene-sketch)  
+
+---
+
+⭐ Explore my repositories and follow my journey in **data analytics**!
+
